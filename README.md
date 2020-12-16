@@ -1,1 +1,1 @@
-bimtester has moved to: https://github.com/bimtester/bimtesterfc
+bimtester has moved to: https://gitlab.com/bimtester/bimtesterfc
